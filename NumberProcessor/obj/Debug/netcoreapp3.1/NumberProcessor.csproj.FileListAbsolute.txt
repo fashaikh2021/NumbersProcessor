@@ -1,0 +1,10 @@
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\bin\Debug\netcoreapp3.1\NumberProcessor.deps.json
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\bin\Debug\netcoreapp3.1\NumberProcessor.dll
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\bin\Debug\netcoreapp3.1\NumberProcessor.pdb
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.csproj.AssemblyReference.cache
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.AssemblyInfoInputs.cache
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.AssemblyInfo.cs
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.csproj.CoreCompileInputs.cache
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.dll
+E:\Interview\Glidepath\NumbersMachine\NumberProcessor\obj\Debug\netcoreapp3.1\NumberProcessor.pdb
