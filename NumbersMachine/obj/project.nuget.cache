@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdy9q+/B5Cs79F31BSlbxQyOgm7UE5V8vUR1F5qdVx2Psg4+cO1yQV7ExuCf3JRnEWXGrnfvFbbafPu+EFV4Pw==",
+  "success": true,
+  "projectFilePath": "E:\\Interview\\Glidepath\\NumbersMachine\\NumbersMachine\\NumbersMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fahad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fahad\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Fahad\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
